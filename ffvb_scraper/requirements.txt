@@ -1,0 +1,26 @@
+# requirements.txt - Dépendances pour FFVB Players Scraper
+scrapy>=2.11.0
+itemloaders>=1.1.0
+itemadapter>=0.8.0
+
+# Dépendances pour l'export et analyse
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# sqlite3 est inclus dans Python standard - pas besoin de l'installer
+
+# Dépendances optionnelles pour l'analyse
+matplotlib>=3.7.0
+seaborn>=0.12.0
+numpy>=1.24.0
+
+# Dépendances pour le logging avancé
+colorlog>=6.7.0
+
+# Dépendances système (automatiquement installées avec Scrapy)
+twisted>=22.10.0
+cryptography>=41.0.0
+pyopenssl>=23.2.0
+lxml>=4.9.0
+parsel>=1.8.0
+w3lib>=2.1.0

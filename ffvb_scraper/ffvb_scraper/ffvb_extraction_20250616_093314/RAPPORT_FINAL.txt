@@ -1,0 +1,16 @@
+🏐 RAPPORT FINAL - EXTRACTION FFVB
+==================================================
+
+📅 Date: 16/06/2025 09:33:14
+📁 Répertoire: ffvb_extraction_20250616_093314
+
+📊 RÉSULTATS PAR MÉTHODE:
+   final_merged: 0 joueur(s)
+
+🎯 TOTAL FINAL: 0 joueur(s) uniques
+
+📁 FICHIERS GÉNÉRÉS:
+   RAPPORT_FINAL.txt: 0 bytes
+   processed\ffvb_players_final.json: 2 bytes
+
+✅ EXTRACTION TERMINÉE AVEC SUCCÈS!

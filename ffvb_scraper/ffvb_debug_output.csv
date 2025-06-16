@@ -1,0 +1,346 @@
+type,nom_joueur,numero,poste,info_supplementaire,url_source
+list_item,FFVOLLEY,,,Liste 1 Item 1,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Présentation FFVolley,,,Liste 1 Item 2,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Partenaires,,,Liste 1 Item 3,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,CONSULTATIONS,,,Liste 1 Item 4,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Emploi / Appel à candidature,,,Liste 1 Item 5,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,PSF - Projets Sportifs Fédéraux,,,Liste 1 Item 6,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Labels Clubs,,,Liste 1 Item 7,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Equipements et Homologations,,,Liste 1 Item 8,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Lutte contre les Maltraitances,,,Liste 1 Item 9,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Agents Sportifs,,,Liste 1 Item 10,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Paris sportifs,,,Liste 1 Item 11,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,L'assurance,,,Liste 1 Item 12,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Publications Officielles,,,Liste 1 Item 13,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,PRATIQUER,,,Liste 1 Item 14,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Guide de rentrée,,,Liste 1 Item 15,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Le Volley-Ball,,,Liste 1 Item 16,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Le Beach Volley,,,Liste 1 Item 17,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Le Volley Assis,,,Liste 1 Item 18,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Le Volley Sourd,,,Liste 1 Item 19,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Le Volley Santé,,,Liste 1 Item 20,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Volley Scolaire,,,Liste 1 Item 21,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Volley jeunesse en club,,,Liste 1 Item 22,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Prim 'Anim,,,Liste 1 Item 23,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Service Civique,,,Liste 1 Item 24,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Snow Volley,,,Liste 1 Item 25,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Licences,,,Liste 1 Item 26,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Matériels,,,Liste 1 Item 27,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Où pratiquer ?,,,Liste 1 Item 28,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Appel à Bénévoles,,,Liste 1 Item 29,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Appels à projets Outdoor,,,Liste 1 Item 30,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Le Volley sur prescription médicale,,,Liste 1 Item 31,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,SE FORMER,,,Liste 1 Item 32,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,JOUEURS,,,Liste 1 Item 33,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Projet de Performance Fédéral,,,Liste 1 Item 34,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,CFCP - Centres de Formation,,,Liste 1 Item 35,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Les Pôles,,,Liste 1 Item 36,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Le double projet,,,Liste 1 Item 37,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,ENTRAÎNEURS,,,Liste 1 Item 38,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,CERTIFICAT QUALIOPI,,,Liste 1 Item 39,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,CATALOGUE ET INSCRIPTIONS 2025,,,Liste 1 Item 40,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Choix de ma formation,,,Liste 1 Item 41,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Tarifs des formations,,,Liste 1 Item 42,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,CATALOGUE ET INSCRIPTIONS REGIONALES,,,Liste 1 Item 43,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,ARCHITECTURE DES FORMATIONS,,,Liste 1 Item 44,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Formations régionales,,,Liste 1 Item 45,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Formations nationales,,,Liste 1 Item 46,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Formations experts,,,Liste 1 Item 47,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Cursus spécifiques,,,Liste 1 Item 48,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,FORMATION CONTINUE,,,Liste 1 Item 49,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Formation Continue Amateur (FCA),,,Liste 1 Item 50,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Formation Continue Professionnelle (FCP),,,Liste 1 Item 51,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,DIPLÔMES D'ÉTAT,,,Liste 1 Item 52,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Suivi des cohortes,,,Liste 1 Item 53,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,FINANCER SA FORMATION,,,Liste 1 Item 54,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,VALIDATION DES ACQUIS,,,Liste 1 Item 55,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,EQUIVALENCES,,,Liste 1 Item 56,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,STATISTIQUES,,,Liste 1 Item 57,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,RÉGLEMENTATION,,,Liste 1 Item 58,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Politique de protection des données personnelles,,,Liste 1 Item 59,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Reglement intérieur,,,Liste 1 Item 60,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Charte d'accueil des PSH en formation,,,Liste 1 Item 61,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,ARBITRES,,,Liste 1 Item 62,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,MY COACH BY FFVOLLEY,,,Liste 1 Item 63,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,DIRIGEANTS,,,Liste 1 Item 64,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Masterclass,,,Liste 1 Item 65,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Accompagner les dirigeants,,,Liste 1 Item 66,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,RECLAMATION ET SAISINE INFORMATIQUE FORMATION,,,Liste 1 Item 67,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,EQUIPES DE FRANCE,,,Liste 1 Item 68,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,VOLLEY-BALL,,,Liste 1 Item 69,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Masculins,,,Liste 1 Item 70,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Le collectif,,,Liste 1 Item 71,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Palmarès,,,Liste 1 Item 72,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Saison 2025,,,Liste 1 Item 73,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Féminines,,,Liste 1 Item 74,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Le Collectif,,,Liste 1 Item 75,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Palmarès,,,Liste 1 Item 76,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Saison 2025,,,Liste 1 Item 77,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Jeunes,,,Liste 1 Item 78,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Palmarès,,,Liste 1 Item 79,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Historique,,,Liste 1 Item 80,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,BEACH VOLLEY,,,Liste 1 Item 81,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Masculins,,,Liste 1 Item 82,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Féminines,,,Liste 1 Item 83,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,VOLLEY ASSIS,,,Liste 1 Item 84,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,VOLLEY SOURD,,,Liste 1 Item 85,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,AIFVB,,,Liste 1 Item 86,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,COMPETITIONS,,,Liste 1 Item 87,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Volley-Ball,,,Liste 1 Item 88,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Les Pôles France,,,Liste 1 Item 89,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Championnats Nationaux,,,Liste 1 Item 90,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Championnats Régionaux,,,Liste 1 Item 91,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Championnats Départementaux,,,Liste 1 Item 92,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Coupes de France Seniors,,,Liste 1 Item 93,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Coupes de France Jeunes,,,Liste 1 Item 94,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Volleyades Crédit Mutuel M14F-M15M,,,Liste 1 Item 95,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Volleyades Crédit Mutuel M12F-M13M,,,Liste 1 Item 96,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Palmarès et Historique,,,Liste 1 Item 97,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Par saison sportive,,,Liste 1 Item 98,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Beach Volley,,,Liste 1 Item 99,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Compétitions FFvolley,,,Liste 1 Item 100,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Championnat de France,,,Liste 1 Item 101,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,FRANCE BEACH VOLLEY SERIES,,,Liste 1 Item 102,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Beach Volley System,,,Liste 1 Item 103,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Coupe de France de Beach Volley,,,Liste 1 Item 104,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Beach Volleyades,,,Liste 1 Item 105,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Inscriptions/Résultats via BVS,,,Liste 1 Item 106,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Organiser un tournoi,,,Liste 1 Item 107,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Tournois,,,Liste 1 Item 108,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Palmarès,,,Liste 1 Item 109,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,PARA-VOLLEY,,,Liste 1 Item 110,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Volley Assis,,,Liste 1 Item 111,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Volley Sourd,,,Liste 1 Item 112,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,VOLLEY LOISIRS,,,Liste 1 Item 113,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,COUPE DE FRANCE COMPET'LIB,,,Liste 1 Item 114,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,COUPE DE FRANCE MASTERS,,,Liste 1 Item 115,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,BILLETTERIE,,,Liste 1 Item 116,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Présentation FFVolley,,,Liste 2 Item 1,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Partenaires,,,Liste 2 Item 2,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,CONSULTATIONS,,,Liste 2 Item 3,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Emploi / Appel à candidature,,,Liste 2 Item 4,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,PSF - Projets Sportifs Fédéraux,,,Liste 2 Item 5,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Labels Clubs,,,Liste 2 Item 6,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Equipements et Homologations,,,Liste 2 Item 7,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Lutte contre les Maltraitances,,,Liste 2 Item 8,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Agents Sportifs,,,Liste 2 Item 9,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Paris sportifs,,,Liste 2 Item 10,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,L'assurance,,,Liste 2 Item 11,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Publications Officielles,,,Liste 2 Item 12,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Guide de rentrée,,,Liste 3 Item 1,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Le Volley-Ball,,,Liste 3 Item 2,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Le Beach Volley,,,Liste 3 Item 3,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Le Volley Assis,,,Liste 3 Item 4,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Le Volley Sourd,,,Liste 3 Item 5,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Le Volley Santé,,,Liste 3 Item 6,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Volley Scolaire,,,Liste 3 Item 7,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Volley jeunesse en club,,,Liste 3 Item 8,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Prim 'Anim,,,Liste 3 Item 9,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Service Civique,,,Liste 3 Item 10,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Snow Volley,,,Liste 3 Item 11,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Licences,,,Liste 3 Item 12,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Matériels,,,Liste 3 Item 13,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Où pratiquer ?,,,Liste 3 Item 14,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Appel à Bénévoles,,,Liste 3 Item 15,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Appels à projets Outdoor,,,Liste 3 Item 16,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Le Volley sur prescription médicale,,,Liste 3 Item 17,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,JOUEURS,,,Liste 4 Item 1,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Projet de Performance Fédéral,,,Liste 4 Item 2,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,CFCP - Centres de Formation,,,Liste 4 Item 3,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Les Pôles,,,Liste 4 Item 4,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Le double projet,,,Liste 4 Item 5,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,ENTRAÎNEURS,,,Liste 4 Item 6,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,CERTIFICAT QUALIOPI,,,Liste 4 Item 7,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,CATALOGUE ET INSCRIPTIONS 2025,,,Liste 4 Item 8,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Choix de ma formation,,,Liste 4 Item 9,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Tarifs des formations,,,Liste 4 Item 10,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,CATALOGUE ET INSCRIPTIONS REGIONALES,,,Liste 4 Item 11,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,ARCHITECTURE DES FORMATIONS,,,Liste 4 Item 12,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Formations régionales,,,Liste 4 Item 13,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Formations nationales,,,Liste 4 Item 14,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Formations experts,,,Liste 4 Item 15,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Cursus spécifiques,,,Liste 4 Item 16,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,FORMATION CONTINUE,,,Liste 4 Item 17,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Formation Continue Amateur (FCA),,,Liste 4 Item 18,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Formation Continue Professionnelle (FCP),,,Liste 4 Item 19,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,DIPLÔMES D'ÉTAT,,,Liste 4 Item 20,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Suivi des cohortes,,,Liste 4 Item 21,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,FINANCER SA FORMATION,,,Liste 4 Item 22,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,VALIDATION DES ACQUIS,,,Liste 4 Item 23,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,EQUIVALENCES,,,Liste 4 Item 24,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,STATISTIQUES,,,Liste 4 Item 25,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,RÉGLEMENTATION,,,Liste 4 Item 26,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Politique de protection des données personnelles,,,Liste 4 Item 27,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Reglement intérieur,,,Liste 4 Item 28,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Charte d'accueil des PSH en formation,,,Liste 4 Item 29,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,ARBITRES,,,Liste 4 Item 30,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,MY COACH BY FFVOLLEY,,,Liste 4 Item 31,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,DIRIGEANTS,,,Liste 4 Item 32,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Masterclass,,,Liste 4 Item 33,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Accompagner les dirigeants,,,Liste 4 Item 34,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,RECLAMATION ET SAISINE INFORMATIQUE FORMATION,,,Liste 4 Item 35,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Projet de Performance Fédéral,,,Liste 5 Item 1,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,CFCP - Centres de Formation,,,Liste 5 Item 2,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Les Pôles,,,Liste 5 Item 3,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Le double projet,,,Liste 5 Item 4,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,CERTIFICAT QUALIOPI,,,Liste 6 Item 1,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,CATALOGUE ET INSCRIPTIONS 2025,,,Liste 6 Item 2,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Choix de ma formation,,,Liste 6 Item 3,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Tarifs des formations,,,Liste 6 Item 4,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,CATALOGUE ET INSCRIPTIONS REGIONALES,,,Liste 6 Item 5,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,ARCHITECTURE DES FORMATIONS,,,Liste 6 Item 6,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Formations régionales,,,Liste 6 Item 7,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Formations nationales,,,Liste 6 Item 8,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Formations experts,,,Liste 6 Item 9,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Cursus spécifiques,,,Liste 6 Item 10,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,FORMATION CONTINUE,,,Liste 6 Item 11,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Formation Continue Amateur (FCA),,,Liste 6 Item 12,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Formation Continue Professionnelle (FCP),,,Liste 6 Item 13,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,DIPLÔMES D'ÉTAT,,,Liste 6 Item 14,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Suivi des cohortes,,,Liste 6 Item 15,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,FINANCER SA FORMATION,,,Liste 6 Item 16,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,VALIDATION DES ACQUIS,,,Liste 6 Item 17,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,EQUIVALENCES,,,Liste 6 Item 18,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,STATISTIQUES,,,Liste 6 Item 19,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,RÉGLEMENTATION,,,Liste 6 Item 20,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Politique de protection des données personnelles,,,Liste 6 Item 21,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Reglement intérieur,,,Liste 6 Item 22,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Charte d'accueil des PSH en formation,,,Liste 6 Item 23,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Choix de ma formation,,,Liste 7 Item 1,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Tarifs des formations,,,Liste 7 Item 2,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Formations régionales,,,Liste 8 Item 1,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Formations nationales,,,Liste 8 Item 2,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Formations experts,,,Liste 8 Item 3,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Cursus spécifiques,,,Liste 8 Item 4,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Formation Continue Amateur (FCA),,,Liste 9 Item 1,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Formation Continue Professionnelle (FCP),,,Liste 9 Item 2,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Suivi des cohortes,,,Liste 10 Item 1,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Politique de protection des données personnelles,,,Liste 11 Item 1,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Reglement intérieur,,,Liste 11 Item 2,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Charte d'accueil des PSH en formation,,,Liste 11 Item 3,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Masterclass,,,Liste 12 Item 1,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Accompagner les dirigeants,,,Liste 12 Item 2,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,VOLLEY-BALL,,,Liste 13 Item 1,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Masculins,,,Liste 13 Item 2,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Le collectif,,,Liste 13 Item 3,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Palmarès,,,Liste 13 Item 4,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Saison 2025,,,Liste 13 Item 5,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Féminines,,,Liste 13 Item 6,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Le Collectif,,,Liste 13 Item 7,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Palmarès,,,Liste 13 Item 8,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Saison 2025,,,Liste 13 Item 9,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Jeunes,,,Liste 13 Item 10,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Palmarès,,,Liste 13 Item 11,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Historique,,,Liste 13 Item 12,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,BEACH VOLLEY,,,Liste 13 Item 13,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Masculins,,,Liste 13 Item 14,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Féminines,,,Liste 13 Item 15,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,VOLLEY ASSIS,,,Liste 13 Item 16,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,VOLLEY SOURD,,,Liste 13 Item 17,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,AIFVB,,,Liste 13 Item 18,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Masculins,,,Liste 14 Item 1,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Le collectif,,,Liste 14 Item 2,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Palmarès,,,Liste 14 Item 3,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Saison 2025,,,Liste 14 Item 4,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Féminines,,,Liste 14 Item 5,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Le Collectif,,,Liste 14 Item 6,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Palmarès,,,Liste 14 Item 7,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Saison 2025,,,Liste 14 Item 8,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Jeunes,,,Liste 14 Item 9,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Palmarès,,,Liste 14 Item 10,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Historique,,,Liste 14 Item 11,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Le collectif,,,Liste 15 Item 1,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Palmarès,,,Liste 15 Item 2,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Saison 2025,,,Liste 15 Item 3,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Le Collectif,,,Liste 16 Item 1,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Palmarès,,,Liste 16 Item 2,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Saison 2025,,,Liste 16 Item 3,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Palmarès,,,Liste 17 Item 1,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Historique,,,Liste 17 Item 2,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Masculins,,,Liste 18 Item 1,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Féminines,,,Liste 18 Item 2,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Volley-Ball,,,Liste 19 Item 1,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Les Pôles France,,,Liste 19 Item 2,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Championnats Nationaux,,,Liste 19 Item 3,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Championnats Régionaux,,,Liste 19 Item 4,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Championnats Départementaux,,,Liste 19 Item 5,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Coupes de France Seniors,,,Liste 19 Item 6,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Coupes de France Jeunes,,,Liste 19 Item 7,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Volleyades Crédit Mutuel M14F-M15M,,,Liste 19 Item 8,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Volleyades Crédit Mutuel M12F-M13M,,,Liste 19 Item 9,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Palmarès et Historique,,,Liste 19 Item 10,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Par saison sportive,,,Liste 19 Item 11,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Beach Volley,,,Liste 19 Item 12,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Compétitions FFvolley,,,Liste 19 Item 13,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Championnat de France,,,Liste 19 Item 14,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,FRANCE BEACH VOLLEY SERIES,,,Liste 19 Item 15,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Beach Volley System,,,Liste 19 Item 16,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Coupe de France de Beach Volley,,,Liste 19 Item 17,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Beach Volleyades,,,Liste 19 Item 18,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Inscriptions/Résultats via BVS,,,Liste 19 Item 19,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Organiser un tournoi,,,Liste 19 Item 20,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Tournois,,,Liste 19 Item 21,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Palmarès,,,Liste 19 Item 22,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,PARA-VOLLEY,,,Liste 19 Item 23,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Volley Assis,,,Liste 19 Item 24,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Volley Sourd,,,Liste 19 Item 25,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,VOLLEY LOISIRS,,,Liste 19 Item 26,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,COUPE DE FRANCE COMPET'LIB,,,Liste 19 Item 27,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,COUPE DE FRANCE MASTERS,,,Liste 19 Item 28,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Les Pôles France,,,Liste 20 Item 1,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Championnats Nationaux,,,Liste 20 Item 2,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Championnats Régionaux,,,Liste 20 Item 3,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Championnats Départementaux,,,Liste 20 Item 4,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Coupes de France Seniors,,,Liste 20 Item 5,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Coupes de France Jeunes,,,Liste 20 Item 6,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Volleyades Crédit Mutuel M14F-M15M,,,Liste 20 Item 7,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Volleyades Crédit Mutuel M12F-M13M,,,Liste 20 Item 8,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Palmarès et Historique,,,Liste 20 Item 9,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Par saison sportive,,,Liste 20 Item 10,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Par saison sportive,,,Liste 21 Item 1,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Compétitions FFvolley,,,Liste 22 Item 1,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Championnat de France,,,Liste 22 Item 2,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,FRANCE BEACH VOLLEY SERIES,,,Liste 22 Item 3,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Beach Volley System,,,Liste 22 Item 4,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Coupe de France de Beach Volley,,,Liste 22 Item 5,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Beach Volleyades,,,Liste 22 Item 6,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Inscriptions/Résultats via BVS,,,Liste 22 Item 7,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Organiser un tournoi,,,Liste 22 Item 8,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Tournois,,,Liste 22 Item 9,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Palmarès,,,Liste 22 Item 10,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Championnat de France,,,Liste 23 Item 1,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,FRANCE BEACH VOLLEY SERIES,,,Liste 23 Item 2,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Beach Volley System,,,Liste 23 Item 3,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Coupe de France de Beach Volley,,,Liste 23 Item 4,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Beach Volleyades,,,Liste 23 Item 5,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Volley Assis,,,Liste 24 Item 1,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,Volley Sourd,,,Liste 24 Item 2,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,COUPE DE FRANCE COMPET'LIB,,,Liste 25 Item 1,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+list_item,COUPE DE FRANCE MASTERS,,,Liste 25 Item 2,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+link_found,/359-37-1-Equipements-et-Homologations,,,Lien intéressant,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+link_found,/201-37-1-JOUEURS,,,Lien intéressant,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+link_found,/se-former/joueurs/cfcp-centres-de-formation/,,,Lien intéressant,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+link_found,/se-former/joueurs/les-poles/,,,Lien intéressant,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+link_found,/se-former/joueurs/le-double-projet/,,,Lien intéressant,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+player_pattern,"!function(e,i){if(!e.pixie){var n=e.pixie=function(e,i,a){n.actionQueue.push({action:e,actionValue:i,params:a})};n.actionQueue=[];var a=i.createElement(""script"");a.async=!0,a.src=""//acdn.adnxs.com/dmp/up/pixie.js"";var t=i.getElementsByTagName(""head"")[0];t.insertBefore(a,t.firstChild)}}(window,document);
+        pixie('init', 'ceb0557d-d2f4-4e86-aebd-bc3185770d2a');",,,Pattern détecté,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+player_pattern,"!function(f,b,e,v,n,t,s)
+          {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+          fbq('init', '867895000646036');
+          fbq('track', 'PageView');",,,Pattern détecté,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+player_pattern,Présentation FFVolley,,,Pattern détecté,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+player_pattern,Labels Clubs,,,Pattern détecté,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+player_pattern,Agents Sportifs,,,Pattern détecté,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+player_pattern,Paris sportifs,,,Pattern détecté,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+player_pattern,Publications Officielles,,,Pattern détecté,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+player_pattern,Le Volley-Ball,,,Pattern détecté,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+player_pattern,Volley Scolaire,,,Pattern détecté,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+player_pattern,Prim 'Anim,,,Pattern détecté,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+player_image,/data/Files/2025%20-%20EDF%20MASCULINE%20VOLLEY/CV%20JOUEURS/1%20Barth%C3%A9l%C3%A9my%20Chinenyeze.png,,,Photo joueur potentielle,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0
+page_title,FFvolley,,,Titre de la page,http://www.ffvb.org/index.php?lvlid=384&dsgtypid=37&artid=1217&pos=0

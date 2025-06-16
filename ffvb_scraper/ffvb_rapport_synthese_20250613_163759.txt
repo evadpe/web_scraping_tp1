@@ -1,0 +1,60 @@
+🏐 RAPPORT DE SYNTHÈSE - ÉQUIPE DE FRANCE MASCULINE VOLLEY
+============================================================
+
+Date d'extraction: 13/06/2025 16:37:59
+Nombre de joueurs: 51
+
+👥 LISTE DES JOUEURS:
+# 7 - Kevin Tillie              (               ) - 
+# 7 - Kevin Tillie              (               ) - 
+#17 - Trevor Clevenot           (               ) - 
+#17 - Trevor Clevenot           (               ) - 
+#21 - Théo Faure                (               ) - 
+#21 - Théo Faure                (               ) - 
+#25 - Quentin Jouffroy          (               ) - 
+#21 - Théo Faure                (               ) - 
+#25 - Quentin Jouffroy          (               ) - 
+#25 - Quentin Jouffroy          (               ) - 
+#25 - Quentin Jouffroy          (               ) - 
+#21 - Théo Faure                (               ) - 
+#23 - Timothee Carle            (               ) - 
+#17 - Trevor Clevenot           (               ) - 
+#23 - Timothee Carle            (               ) - 
+#23 - Timothee Carle            (               ) - 
+#23 - Timothee Carle            (               ) - 
+#17 - Trevor Clevenot           (               ) - 
+#19 - Yacine Louati             (               ) - 
+# 7 - Kevin Tillie              (               ) - 
+#19 - Yacine Louati             (               ) - 
+#19 - Yacine Louati             (               ) - 
+#19 - Yacine Louati             (               ) - 
+# 7 - Kevin Tillie              (               ) - 
+#14 - Nicolas Le Goff           (               ) - 
+#11 - Antoine Brizard           (               ) - 
+#14 - Nicolas Le Goff           (               ) - 
+#11 - Antoine Brizard           (               ) - 
+#11 - Antoine Brizard           (               ) - 
+#11 - Antoine Brizard           (               ) - 
+#14 - Nicolas Le Goff           (               ) - 
+#14 - Nicolas Le Goff           (               ) - 
+#11 - Antoine Brizard           (               ) - 
+# 9 - Earvin Ngapeth            (               ) - 
+#11 - Antoine Brizard           (               ) - 
+# 9 - Earvin Ngapeth            (               ) - 
+# 9 - Earvin Ngapeth            (               ) - 
+# 9 - Earvin Ngapeth            (               ) - 
+#11 - Antoine Brizard           (               ) - 
+#11 - Antoine Brizard           (               ) - 
+# 6 - Benjamin Toniutti         (               ) - 
+# 4 - Jean Patry                (               ) - 
+# 6 - Benjamin Toniutti         (               ) - 
+# 4 - Jean Patry                (               ) - 
+# 4 - Jean Patry                (               ) - 
+# 4 - Jean Patry                (               ) - 
+# 6 - Benjamin Toniutti         (               ) - 
+# 6 - Benjamin Toniutti         (               ) - 
+# 1 - Barthélémy Chinenyeze     (               ) - 
+# 1 - Barthélémy Chinenyeze     (               ) - 
+# 1 - Barthélémy Chinenyeze     (               ) - 
+
+📄 Rapport sauvegardé: ffvb_rapport_synthese_20250613_163759.txt

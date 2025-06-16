@@ -1,0 +1,14 @@
+nom_joueur,numero,poste,taille,poids,age,naissance,club,selections,numero_maillot,url_cv_image,completeness_score,quality_score,ocr_method,ocr_status,extraction_date
+Barthélémy Chinenyeze,1,Central,204,81,,28/02/1998,De Dunkerque Le P,,,/data/Files/2025%20-%20EDF%20MASCULINE%20VOLLEY/CV%20JOUEURS/1%20Barth%C3%A9l%C3%A9my%20Chinenyeze.png,83.3,13,grayscale+Standard,success,2025-06-16T14:12:53.322282
+Jenia Grebennikov,2,Libéro,188,85,,13/08/1990,S Et De La Coupe De La Cev Iwb,,,/data/Files/2025%20-%20EDF%20MASCULINE%20VOLLEY/CV%20JOUEURS/2%20Jenia%20Grebennikov.png,83.3,13,grayscale+Standard,success,2025-06-16T14:13:40.225993
+Jean Patry,4,Attaquant,207,94,,27/12/1996,De France,,,/data/Files/2025%20-%20EDF%20MASCULINE%20VOLLEY/CV%20JOUEURS/4%20Jean%20Patry.png,83.3,13,original+Layout,success,2025-06-16T14:14:21.075162
+Benjamin Toniutti,6,Passeur,183,68,,30/10/1989,De France,,,/data/Files/2025%20-%20EDF%20MASCULINE%20VOLLEY/CV%20JOUEURS/6%20Benjamin%20Toniutti.png,83.3,14,opencv+Standard,success,2025-06-16T14:14:55.765770
+Kevin Tillie,7,Attaquant,199,75,,02/11/1990,De France,,,/data/Files/2025%20-%20EDF%20MASCULINE%20VOLLEY/CV%20JOUEURS/7%20Kevin%20Tillie.png,83.3,14,contrast+Standard,success,2025-06-16T14:15:26.933756
+Earvin Ngapeth,9,Attaquant,194,93,,12/02/1991,De Tours Entraine Par Son,,,/data/Files/2025%20-%20EDF%20MASCULINE%20VOLLEY/CV%20JOUEURS/9%20Earvin%20Ngapeth.png,83.3,13,original+Standard,success,2025-06-16T14:16:04.844853
+Antoine Brizard,11,Passeur,196,96,,22/05/1994,Poitiers,,,/data/Files/2025%20-%20EDF%20MASCULINE%20VOLLEY/CV%20JOUEURS/11%20Antoine%20Brizard.png,83.3,13,original+Standard,success,2025-06-16T14:16:37.400057
+Nicolas Le Goff,14,Central,206,97,,15/02/1992,De France Nicolas Le Goff Ou,,,/data/Files/2025%20-%20EDF%20MASCULINE%20VOLLEY/CV%20JOUEURS/14%20Nicolas%20Le%20Goff.png,83.3,14,original+Layout,success,2025-06-16T14:17:21.902515
+Trevor Clevenot,17,Attaquant,199,89,,28/06/1994,De France,,,/data/Files/2025%20-%20EDF%20MASCULINE%20VOLLEY/CV%20JOUEURS/17%20Trevor%20Clevenot.png,83.3,14,original+Layout,success,2025-06-16T14:17:53.626965
+Yacine Louati,19,Réceptionneur-Attaquant,198,92,,04/03/1992,De Tourcoing Tourcoing,,,/data/Files/2025%20-%20EDF%20MASCULINE%20VOLLEY/CV%20JOUEURS/19%20Yacine%20Louati.png,83.3,13,contrast+Standard,success,2025-06-16T14:18:24.979002
+Théo Faure,21,,199,84,,12/08/1999,Montpellier,,,/data/Files/2025%20-%20EDF%20MASCULINE%20VOLLEY/CV%20JOUEURS/21%20Th%C3%A9o%20Faure.png,66.7,10,original+Standard,success,2025-06-16T14:18:47.413085
+Timothee Carle,23,Attaquant,195,83,,30/11/1995,Qu Il Poids,,,/data/Files/2025%20-%20EDF%20MASCULINE%20VOLLEY/CV%20JOUEURS/23%20Timothee%20Carle.png,83.3,14,sharp+Standard,success,2025-06-16T14:19:22.471935
+Quentin Jouffroy,25,Central,202,100,,05/07/1993,De France,,,/data/Files/2025%20-%20EDF%20MASCULINE%20VOLLEY/CV%20JOUEURS/25%20Quentin%20Jouffroy.png,83.3,14,binary+Standard,success,2025-06-16T14:19:50.941179
